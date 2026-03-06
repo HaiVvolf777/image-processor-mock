@@ -127,4 +127,3 @@ See `docs/integration-guide.md` for:
 - C# code examples (both via HTTP and direct Gemini REST)
 - Batch processing guide
 - Retry strategy and latency expectations
-# image-processor-mock
